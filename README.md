@@ -5,4 +5,4 @@ Two datasets were used for this, the spam dataset and 20 newsgroups dataset. The
 
 This was done Python with Jupyter Notebook.
 
-With the datasets included, you will be able to run this easily.
+The spam dataset is included with the files, whereas the 20 newgroups dataset is imported on Jupyter Notebook
